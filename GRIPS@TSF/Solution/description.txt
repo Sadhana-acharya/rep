@@ -1,0 +1,5 @@
+Data science internship with teh following tasks:
+a) Regression task to predict the marks scored by the student fiven the number of hours studied.
+b) Predicting the number of clusters in the Iris databse and representing it visually.
+c) Creating the decision tree classifier and visualizing it.  
+d) Performing exploratory data analysis on samplesuperstore dataset and visualizing the profits and losses of the company.
