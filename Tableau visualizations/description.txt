@@ -1,0 +1,3 @@
+This folder contains Tableau visualizations 
+1) Covi-19 visualization
+2) Sample superstore visualization to analyse profit and loss
