@@ -1,0 +1,3 @@
+This folder contains two mini projects on "Simple Linear Regression":
+1) To analyse and predict marks based on the number of hours studied
+2) To analyse and predict salary based on the years of experience
