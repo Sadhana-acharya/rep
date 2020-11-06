@@ -1,0 +1,1 @@
+A python project which uses OpenCV to detect the faces in real-time
